@@ -1,0 +1,9 @@
+## Interface: 30300
+## Version: 1.1
+
+## Title: Assistant Ready Check
+## Notes: Shows the results of a ready check in chat when you are a raid assistant.
+
+## Author: Tbdsamman
+
+AssistantReadyCheck.lua
